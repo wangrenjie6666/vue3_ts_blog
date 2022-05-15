@@ -1,7 +1,6 @@
 <template>
   <footer class="content">
     <div>网站备案号：浙ICP备2021039141号-1</div>
-    111
   </footer>
 </template>
 
